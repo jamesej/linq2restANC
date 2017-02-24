@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "Microsoft.CSharp": "4.3.0",
+    "Microsoft.Extensions.DependencyModel": "1.1.0",
+    "System.Collections.Specialized": "4.0.1",
+    "System.Diagnostics.Contracts": "4.3.0",
+    "System.Linq.Queryable": "4.3.0",
+    "System.Net.Requests": "4.0.11",
+    "System.Reflection.Emit": "4.3.0",
+    "System.Runtime.Serialization.Json": "4.0.1",
+    "System.Runtime.Serialization.Xml": "4.1.1",
+    "System.Threading.Thread": "4.3.0",
+    "System.Xml.XmlSerializer": "4.0.11"
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50",
+      "dependencies": {
+        "NETStandard.Library": "1.6.0"
+      }
+    },
+    "net46": {
+      "frameworkAssemblies": {
+        "System.Xml": "4.0.0.0"
+      },
+      "dependencies": {
+        "Microsoft.Net.Http": "2.2.22"
+      }
+    }
+  },
+  "buildOptions": {
+    "define": [ "NETFX_CORE" ]
+  },
+  "scripts": {
+    "postcompile": [
+      "dotnet pack --no-build --configuration %compile:Configuration%"
+    ]
+  }
+}

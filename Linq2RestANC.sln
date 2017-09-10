@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Linq2RestANC", "Linq2RestANC\Linq2RestANC.xproj", "{42438D10-91A3-425D-AA70-5A6C8BA5D1D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq2RestANC", "Linq2RestANC\Linq2RestANC.csproj", "{42438D10-91A3-425D-AA70-5A6C8BA5D1D1}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Linq2RestANC.Test", "Linq2RestANC.Test\Linq2RestANC.Test.xproj", "{3AB6D7BE-6B4D-4CA2-B9F9-C20013095E9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq2RestANC.Test", "Linq2RestANC.Test\Linq2RestANC.Test.csproj", "{3AB6D7BE-6B4D-4CA2-B9F9-C20013095E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Reimers.dk")]
 [assembly: AssemblyProduct("Linq2Rest")]
-[assembly: AssemblyCopyright("Copyright © Reimers.dk 2014")]
+[assembly: AssemblyCopyright("Copyright © Reimers.dk 2014; Regulus Systems 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

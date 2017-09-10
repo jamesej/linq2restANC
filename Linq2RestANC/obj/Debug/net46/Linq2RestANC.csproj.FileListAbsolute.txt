@@ -1,0 +1,15 @@
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\Linq2RestANC.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\Linq2RestANC.pdb
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\System.Net.Http.Extensions.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\System.Net.Http.Primitives.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\System.Collections.Specialized.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\System.Runtime.Serialization.Primitives.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\System.Runtime.Serialization.Xml.dll
+C:\Dev\linq2restANC\Linq2RestANC\bin\Debug\net46\System.Threading.Thread.dll
+C:\Dev\linq2restANC\Linq2RestANC\obj\Debug\net46\Linq2RestANC.AssemblyInfo.cs
+C:\Dev\linq2restANC\Linq2RestANC\obj\Debug\net46\Linq2RestANC.dll
+C:\Dev\linq2restANC\Linq2RestANC\obj\Debug\net46\Linq2RestANC.pdb
+C:\Dev\linq2restANC\Linq2RestANC\obj\Debug\net46\Linq2RestANC.csprojResolveAssemblyReference.cache
